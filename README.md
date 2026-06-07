@@ -1,11 +1,11 @@
-# Hi, I'm Iness 👋
+# Hi, I'm Iness
 
 Computer Engineering student at UIR – Université Internationale de Rabat. I like building things that are actually useful, from Android apps to web dashboards to firewall configurations.
 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -20,7 +20,7 @@ Computer Engineering student at UIR – Université Internationale de Rabat. I l
 
 ---
 
-## 🚀 What I'm working on
+## What I'm working on
 
 - 🛡️ **NetWatch** — network security monitoring dashboard with rule-based anomaly detection, built during my internship at DXC Technology
 - 📱 **UniFind** — Android marketplace and lost-and-found app for UIR students
