@@ -1,7 +1,5 @@
 # Hi, I'm Iness
-
 Computer Engineering student at UIR – Université Internationale de Rabat. I like building things that are actually useful, from Android apps to web dashboards to firewall configurations.
-
 
 ---
 
@@ -33,11 +31,10 @@ Computer Engineering student at UIR – Université Internationale de Rabat. I l
 | :------ | :---------- | :---- |
 | [UniFind](https://github.com/InessK98/UniFind) | Campus marketplace & lost-and-found for UIR students | Java · Android · Realm |
 | [NetWatch](https://github.com/InessK98/netwatch) | Network security monitoring dashboard | PHP · MySQL · JS · Chart.js |
-| Cabinet Dentaire | Desktop app for managing dental clinic appointments | Java |
+| [ProjetHandicap](https://github.com/InessK98/ProjetHandicap) | Desktop app for managing disabled student requests | Java · MySQL · Swing |
 | Budget Tracker | Personal finance tracker with spending history | Java · NetBeans |
 
 ---
-
 
 ## 📫 Get in touch
 
