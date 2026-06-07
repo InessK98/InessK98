@@ -1,8 +1,8 @@
 # Hi, I'm Iness 👋
 
-Computer Engineering student at **UIR – Université Internationale de Rabat**, currently interning at **DXC Technology** in the Cybersecurity department.
+Computer Engineering student at UIR – Université Internationale de Rabat. I like building things that are actually useful — from Android apps to web dashboards to firewall configurations.
 
-I like building things that are actually useful — from Android apps to web dashboards to firewall configurations.
+I like building things that are actually useful, from Android apps to web dashboards to firewall configurations.
 
 ---
 
